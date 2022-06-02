@@ -1,6 +1,6 @@
 # Livro de receitas :man_cook:
 
-Olá! Este é um livor de receitas :cookie:
+Olá! Este é um livro de receitas :cookie:
 
 - Lasanha
 - 
